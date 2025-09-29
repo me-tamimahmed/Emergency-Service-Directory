@@ -1,9 +1,6 @@
-// step 01
 // Navbar heart counter
 let heartCount = 0;
 const heartCounter = document.getElementById("add-heart");
-
-
 const hearts = document.querySelectorAll(".card-heart");
 
 hearts.forEach(heart => {
