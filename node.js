@@ -17,6 +17,3 @@ hearts.forEach(heart => {
         heart.style.color = heart.classList.contains("fa-solid") ? "red" : "";
     });
 });
-
-
-// step 02
